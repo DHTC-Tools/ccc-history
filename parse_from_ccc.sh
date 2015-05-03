@@ -1,5 +1,5 @@
 #!/bin/bash
-# Use sed to get the number of orphans for the given file
+# Use sed to get the reqested data from the given ccc report
 
 USAGE="Usage: $0 path_to_ccc_html_file method [dataset]\n\
 - Where method is any one of: dark, time, darksize, pnfsorphans, pnfsorphansize, pnfsghosts, pnfsdup\n\
