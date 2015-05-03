@@ -2,8 +2,8 @@
 # Use sed to get the reqested data from the given ccc report
 
 USAGE="Usage: $0 path_to_ccc_html_file method [dataset]\n\
-- Where method is any one of: dark, time, darksize, pnfsorphans, pnfsorphansize, pnfsghosts, pnfsdup\n\
-- And dataset (where applicable) is any of: MWT2_UC_PHYS-HIGGS, MWT2_UC_LOCALGROUPDISK, MWT2_UC_USERDISK, MWT2_UC_TRIG-DAQ, MWT2_UC_PRODDISK, MWT2_UC_PHYS-TOP, MWT2_UC_PERF-JETS, MWT2_UC_PERF-TAU, MWT2_UC_SCRATCHDISK, MWT2_DATADISK"
+- Where method is any one of: dark, time, darksize, pnfsorphans, pnfsorphansize, pnfsghosts, pnfsdup, replicas, complete, UNKNOWN, EMPTY, MISSING, DAMAGED, INCOMPLETE, OK\n\
+- And dataset (required for replicas, complete, and the capitalized methods) is any of: MWT2_UC_PHYS-HIGGS, MWT2_UC_LOCALGROUPDISK, MWT2_UC_USERDISK, MWT2_UC_TRIG-DAQ, MWT2_UC_PRODDISK, MWT2_UC_PHYS-TOP, MWT2_UC_PERF-JETS, MWT2_UC_PERF-TAU, MWT2_UC_SCRATCHDISK, MWT2_DATADISK"
 
 if [[ $# -lt 2 ]]; then
  echo -e $USAGE
