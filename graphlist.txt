@@ -1,0 +1,100 @@
+pnfsorphans|pnfsorphans|x|# of PNFS orphans|# of PNFS orphans|Time
+pnfsorphansize|pnfsorphansize|x|Size of PNFS orphans|Size of PNFS orphans|Time
+pnfsghosts|pnfsghosts|x|# of PNFS ghosts|# of PNFS ghosts|Time
+pnfsduplicates|pnfsdup|x|# of PNFS duplicates|# of PNFS duplicates|Time
+lfcghosts|lfcghosts|x|# of LFC ghosts|# of LFC ghosts|Time
+lfcorphans|lfcorphans|x|# of LFC orphans|# of LFC orphans|Time
+lfcorphansize|lfcorphansize|x|Size of LFC orphans|Size of LFC orphans|Time
+
+mwt2_datadisk_replicas|replicas|MWT2_DATADISK|# of replicas on MWT2_DATADISK|# of replicas on MWT2_DATADISK|Time
+mwt2_datadisk_complete|complete|MWT2_DATADISK|# of complete replicas on MWT2_DATADISK|# of complete replicas on MWT2_DATADISK|Time
+mwt2_datadisk_empty|EMPTY|MWT2_DATADISK|# of empty replicas on MWT2_DATADISK|# of empty replicas on MWT2_DATADISK|Time
+mwt2_datadisk_unknown|UNKNOWN|MWT2_DATADISK|# of unknown replicas on MWT2_DATADISK|# of unknown replicas on MWT2_DATADISK|Time
+mwt2_datadisk_missing|MISSING|MWT2_DATADISK|# of missing replicas on MWT2_DATADISK|# of missing replicas on MWT2_DATADISK|Time
+mwt2_datadisk_damaged|DAMAGED|MWT2_DATADISK|# of damaged replicas on MWT2_DATADISK|# of damaged replicas on MWT2_DATADISK|Time
+mwt2_datadisk_incomplete|INCOMPLETE|MWT2_DATADISK|# of incomplete replicas on MWT2_DATADISK|# of incomplete replicas on MWT2_DATADISK|Time
+mwt2_datadisk_ok|OK|MWT2_DATADISK|# of ok replicas on MWT2_DATADISK|# of ok replicas on MWT2_DATADISK|Time
+
+mwt2_uc_localgroupdisk_replicas|replicas|MWT2_UC_LOCALGROUPDISK|# of replicas on MWT2_UC_LOCALGROUPDISK|# of replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_complete|complete|MWT2_UC_LOCALGROUPDISK|# of complete replicas on MWT2_UC_LOCALGROUPDISK|# of complete replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_empty|EMPTY|MWT2_UC_LOCALGROUPDISK|# of empty replicas on MWT2_UC_LOCALGROUPDISK|# of empty replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_unknown|UNKNOWN|MWT2_UC_LOCALGROUPDISK|# of unknown replicas on MWT2_UC_LOCALGROUPDISK|# of unknown replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_missing|MISSING|MWT2_UC_LOCALGROUPDISK|# of missing replicas on MWT2_UC_LOCALGROUPDISK|# of missing replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_damaged|DAMAGED|MWT2_UC_LOCALGROUPDISK|# of damaged replicas on MWT2_UC_LOCALGROUPDISK|# of damaged replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_incomplete|INCOMPLETE|MWT2_UC_LOCALGROUPDISK|# of incomplete replicas on MWT2_UC_LOCALGROUPDISK|# of incomplete replicas on MWT2_UC_LOCALGROUPDISK|Time
+mwt2_uc_localgroupdisk_ok|OK|MWT2_UC_LOCALGROUPDISK|# of ok replicas on MWT2_UC_LOCALGROUPDISK|# of ok replicas on MWT2_UC_LOCALGROUPDISK|Time
+
+mwt2_uc_perf-jets_replicas|replicas|MWT2_UC_PERF-JETS|# of replicas on MWT2_UC_PERF-JETS|# of replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_complete|complete|MWT2_UC_PERF-JETS|# of complete replicas on MWT2_UC_PERF-JETS|# of complete replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_empty|EMPTY|MWT2_UC_PERF-JETS|# of empty replicas on MWT2_UC_PERF-JETS|# of empty replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_unknown|UNKNOWN|MWT2_UC_PERF-JETS|# of unknown replicas on MWT2_UC_PERF-JETS|# of unknown replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_missing|MISSING|MWT2_UC_PERF-JETS|# of missing replicas on MWT2_UC_PERF-JETS|# of missing replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_damaged|DAMAGED|MWT2_UC_PERF-JETS|# of damaged replicas on MWT2_UC_PERF-JETS|# of damaged replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_incomplete|INCOMPLETE|MWT2_UC_PERF-JETS|# of incomplete replicas on MWT2_UC_PERF-JETS|# of incomplete replicas on MWT2_UC_PERF-JETS|Time
+mwt2_uc_perf-jets_ok|OK|MWT2_UC_PERF-JETS|# of ok replicas on MWT2_UC_PERF-JETS|# of ok replicas on MWT2_UC_PERF-JETS|Time
+
+mwt2_uc_perf-tau_replicas|replicas|MWT2_UC_PERF-TAU|# of replicas on MWT2_UC_PERF-TAU|# of replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_complete|complete|MWT2_UC_PERF-TAU|# of complete replicas on MWT2_UC_PERF-TAU|# of complete replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_empty|EMPTY|MWT2_UC_PERF-TAU|# of empty replicas on MWT2_UC_PERF-TAU|# of empty replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_unknown|UNKNOWN|MWT2_UC_PERF-TAU|# of unknown replicas on MWT2_UC_PERF-TAU|# of unknown replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_missing|MISSING|MWT2_UC_PERF-TAU|# of missing replicas on MWT2_UC_PERF-TAU|# of missing replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_damaged|DAMAGED|MWT2_UC_PERF-TAU|# of damaged replicas on MWT2_UC_PERF-TAU|# of damaged replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_incomplete|INCOMPLETE|MWT2_UC_PERF-TAU|# of incomplete replicas on MWT2_UC_PERF-TAU|# of incomplete replicas on MWT2_UC_PERF-TAU|Time
+mwt2_uc_perf-tau_ok|OK|MWT2_UC_PERF-TAU|# of ok replicas on MWT2_UC_PERF-TAU|# of ok replicas on MWT2_UC_PERF-TAUy|Time
+
+mwt2_uc_phys-higgs_replicas|replicas|MWT2_UC_PHYS-HIGGS|# of replicas on MWT2_UC_PHYS-HIGGS|# of replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_complete|complete|MWT2_UC_PHYS-HIGGS|# of complete replicas on MWT2_UC_PHYS-HIGGS|# of complete replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_empty|EMPTY|MWT2_UC_PHYS-HIGGS|# of empty replicas on MWT2_UC_PHYS-HIGGS|# of empty replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_unknown|UNKNOWN|MWT2_UC_PHYS-HIGGS|# of unknown replicas on MWT2_UC_PHYS-HIGGS|# of unknown replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_missing|MISSING|MWT2_UC_PHYS-HIGGS|# of missing replicas on MWT2_UC_PHYS-HIGGS|# of missing replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_damaged|DAMAGED|MWT2_UC_PHYS-HIGGS|# of damaged replicas on MWT2_UC_PHYS-HIGGS|# of damaged replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_incomplete|INCOMPLETE|MWT2_UC_PHYS-HIGGS|# of incomplete replicas on MWT2_UC_PHYS-HIGGS|# of incomplete replicas on MWT2_UC_PHYS-HIGGS|Time
+mwt2_uc_phys-higgs_ok|OK|MWT2_UC_PHYS-HIGGS|# of ok replicas on MWT2_UC_PHYS-HIGGS|# of ok replicas on MWT2_UC_PHYS-HIGGS|Time
+
+mwt2_uc_phys-top_replicas|replicas|MWT2_UC_PHYS-TOP|# of replicas on MWT2_UC_PHYS-TOP|# of replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_complete|complete|MWT2_UC_PHYS-TOP|# of complete replicas on MWT2_UC_PHYS-TOP|# of complete replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_empty|EMPTY|MWT2_UC_PHYS-TOP|# of empty replicas on MWT2_UC_PHYS-TOP|# of empty replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_unknown|UNKNOWN|MWT2_UC_PHYS-TOP|# of unknown replicas on MWT2_UC_PHYS-TOP|# of unknown replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_missing|MISSING|MWT2_UC_PHYS-TOP|# of missing replicas on MWT2_UC_PHYS-TOP|# of missing replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_damaged|DAMAGED|MWT2_UC_PHYS-TOP|# of damaged replicas on MWT2_UC_PHYS-TOP|# of damaged replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_incomplete|INCOMPLETE|MWT2_UC_PHYS-TOP|# of incomplete replicas on MWT2_UC_PHYS-TOP|# of incomplete replicas on MWT2_UC_PHYS-TOP|Time
+mwt2_uc_phys-top_ok|OK|MWT2_UC_PHYS-TOP|# of ok replicas on MWT2_UC_PHYS-TOP|# of ok replicas on MWT2_UC_PHYS-TOP|Time
+
+mwt2_uc_proddisk_replicas|replicas|MWT2_UC_PRODDISK|# of replicas on MWT2_UC_PRODDISK|# of replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_complete|complete|MWT2_UC_PRODDISK|# of complete replicas on MWT2_UC_PRODDISK|# of complete replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_empty|EMPTY|MWT2_UC_PRODDISK|# of empty replicas on MWT2_UC_PRODDISK|# of empty replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_unknown|UNKNOWN|MWT2_UC_PRODDISK|# of unknown replicas on MWT2_UC_PRODDISK|# of unknown replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_missing|MISSING|MWT2_UC_PRODDISK|# of missing replicas on MWT2_UC_PRODDISK|# of missing replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_damaged|DAMAGED|MWT2_UC_PRODDISK|# of damaged replicas on MWT2_UC_PRODDISK|# of damaged replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_incomplete|INCOMPLETE|MWT2_UC_PRODDISK|# of incomplete replicas on MWT2_UC_PRODDISK|# of incomplete replicas on MWT2_UC_PRODDISK|Time
+mwt2_uc_proddisk_ok|OK|MWT2_UC_PRODDISK|# of ok replicas on MWT2_UC_PRODDISK|# of ok replicas on MWT2_UC_PRODDISK|Time
+
+mwt2_uc_scratchdisk_replicas|replicas|MWT2_UC_SCRATCHDISK|# of replicas on MWT2_UC_SCRATCHDISK|# of replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_complete|complete|MWT2_UC_SCRATCHDISK|# of complete replicas on MWT2_UC_SCRATCHDISK|# of complete replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_empty|EMPTY|MWT2_UC_SCRATCHDISK|# of empty replicas on MWT2_UC_SCRATCHDISK|# of empty replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_unknown|UNKNOWN|MWT2_UC_SCRATCHDISK|# of unknown replicas on MWT2_UC_SCRATCHDISK|# of unknown replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_missing|MISSING|MWT2_UC_SCRATCHDISK|# of missing replicas on MWT2_UC_SCRATCHDISK|# of missing replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_damaged|DAMAGED|MWT2_UC_SCRATCHDISK|# of damaged replicas on MWT2_UC_SCRATCHDISK|# of damaged replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_incomplete|INCOMPLETE|MWT2_UC_SCRATCHDISK|# of incomplete replicas on MWT2_UC_SCRATCHDISK|# of incomplete replicas on MWT2_UC_SCRATCHDISK|Time
+mwt2_uc_scratchdisk_ok|OK|MWT2_UC_SCRATCHDISK|# of ok replicas on MWT2_UC_SCRATCHDISK|# of ok replicas on MWT2_UC_SCRATCHDISK|Time
+
+mwt2_uc_trig-daq_replicas|replicas|MWT2_UC_TRIG-DAQ|# of replicas on MWT2_UC_TRIG-DAQ|# of replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_complete|complete|MWT2_UC_TRIG-DAQ|# of complete replicas on MWT2_UC_TRIG-DAQ|# of complete replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_empty|EMPTY|MWT2_UC_TRIG-DAQ|# of empty replicas on MWT2_UC_TRIG-DAQ|# of empty replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_unknown|UNKNOWN|MWT2_UC_TRIG-DAQ|# of unknown replicas on MWT2_UC_TRIG-DAQ|# of unknown replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_missing|MISSING|MWT2_UC_TRIG-DAQ|# of missing replicas on MWT2_UC_TRIG-DAQ|# of missing replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_damaged|DAMAGED|MWT2_UC_TRIG-DAQ|# of damaged replicas on MWT2_UC_TRIG-DAQ|# of damaged replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_incomplete|INCOMPLETE|MWT2_UC_TRIG-DAQ|# of incomplete replicas on MWT2_UC_TRIG-DAQ|# of incomplete replicas on MWT2_UC_TRIG-DAQ|Time
+mwt2_uc_trig-daq_ok|OK|MWT2_UC_TRIG-DAQ|# of ok replicas on MWT2_UC_TRIG-DAQ|# of ok replicas on MWT2_UC_TRIG-DAQ|Time
+
+mwt2_uc_userdisk_replicas|replicas|MWT2_UC_USERDISK|# of replicas on MWT2_UC_USERDISK|# of replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_complete|complete|MWT2_UC_USERDISK|# of complete replicas on MWT2_UC_USERDISK|# of complete replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_empty|EMPTY|MWT2_UC_USERDISK|# of empty replicas on MWT2_UC_USERDISK|# of empty replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_unknown|UNKNOWN|MWT2_UC_USERDISK|# of unknown replicas on MWT2_UC_USERDISK|# of unknown replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_missing|MISSING|MWT2_UC_USERDISK|# of missing replicas on MWT2_UC_USERDISK|# of missing replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_damaged|DAMAGED|MWT2_UC_USERDISK|# of damaged replicas on MWT2_UC_USERDISK|# of damaged replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_incomplete|INCOMPLETE|MWT2_UC_USERDISK|# of incomplete replicas on MWT2_UC_USERDISK|# of incomplete replicas on MWT2_UC_USERDISK|Time
+mwt2_uc_userdisk_ok|OK|MWT2_UC_USERDISK|# of ok replicas on MWT2_UC_USERDISK|# of ok replicas on MWT2_UC_USERDISK|Time
+
+darkdata|dark|x|Dark Data|# dq2 orphans|Time
+datasize|darksize|x|Dark Data Size|Size of dq2 orphans|Time
